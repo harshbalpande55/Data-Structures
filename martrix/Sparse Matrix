@@ -32,4 +32,5 @@ void create(struct sparse *s){
 int main(){
     struct sparse s;
     create(&s);
+    return 0 ;
 }
