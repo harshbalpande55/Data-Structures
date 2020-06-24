@@ -10,7 +10,7 @@ void per(char s[],int k)
     if (s[k]=='\0')
     {
         res[k]='\0';
-        cout<<res;
+        cout<< res;
     }
     else
     {
